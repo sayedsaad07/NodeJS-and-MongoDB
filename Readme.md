@@ -41,3 +41,5 @@ Use below syntax to repair database when corrupted
 Tools
 Using NPM
 Using chocolatey as a windows package manager
+
+learning MEAN JS Now
